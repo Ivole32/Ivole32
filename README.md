@@ -99,7 +99,7 @@ Or support the journey here:
 </p>
 
 <p align="center">
-  <i>Last updated: 2025</i>
+  <i>Last updated: 2026</i>
 </p>
 
 <!-- ===================================================== -->
