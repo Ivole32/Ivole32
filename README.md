@@ -12,7 +12,7 @@
 <p align="center">
 📍 Rhineland-Palatinate, Germany  
 <br/>
-📧 <a href="mailto:ivo.theis@posteo.de">ivo.theis@posteo.de</a>
+📧 <a href="mailto:ivole32@ivole32.me">ivole32@ivole32.me</a>
 </p>
 
 ---
