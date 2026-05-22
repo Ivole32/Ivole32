@@ -91,7 +91,7 @@ I'm always open to:
 ✅ Freelance or internship inquiries
 
 📬 **Let’s connect:**  
-**📧 ivo.theis@posteo.de**
+**📧 ivo.theis@ivole32.me**
 
 Or support the journey here:
 <br/>
