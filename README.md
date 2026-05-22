@@ -26,6 +26,13 @@
 
 ---
 
+## 🚀 Featured Project
+
+**QueueForge** — Advanced observability and workflow tooling for production queue systems.  
+👉 [https://queueforge.dev/](https://queueforge.dev/?utm_source=github&utm_medium=profile-md)
+
+---
+
 ## 🧠 Professional Summary
 
 I am a **young German developer and aspiring entrepreneur** focused on building real-world tech solutions while still in high school.  
