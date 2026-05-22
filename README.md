@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+I'm+Ivole32+👋;German+Student+Developer;Future+Founder+%26+Tech+Entrepreneur;Building+Ideas+Into+Reality" />
 </p>
 
-<h1 align="center">🚀 Ivole32</h1>
+<h1 align="center">🚀 Ivo Theis</h1>
 <h3 align="center">High School Developer • Future Entrepreneur • Tech Innovator</h3>
 
 <p align="center">
 📍 Rhineland-Palatinate, Germany  
 <br/>
-📧 <a href="mailto:ivole32@ivole32.me">ivole32@ivole32.me</a>
+📧 <a href="mailto:ivo.theis@ivole32.me">ivo.theis@ivole32.me</a>
 </p>
 
 ---
