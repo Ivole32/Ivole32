@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+I'm+Ivole32+👋;German+Student+Developer;Future+Founder+%26+Tech+Entrepreneur;Building+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+I'm+Ivo+Theis+👋;German+Student+Developer;Future+Founder+%26+Tech+Entrepreneur;Building+Ideas+Into+Reality" />
 </p>
 
 <h1 align="center">🚀 Ivo Theis</h1>
